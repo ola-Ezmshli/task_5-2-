@@ -1,0 +1,19 @@
+body {
+    background-image: url('./img/weather-seamless-pattern-background-vector-cute-doodle-illustration-kids_53876-105731.avif');
+    background-size:1400px;
+ 
+    color: #fff;
+}
+.btn-primary {
+    background-color: #7f71ce;
+    border-color: #7977cf;
+}
+.form-control {
+    background-color: rgba(255, 105, 180, 0.2);
+}
+.mt-4{
+    color: #7161cf;
+}
+.p-2 {
+    color: black;
+}
